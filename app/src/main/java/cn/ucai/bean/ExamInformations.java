@@ -1,11 +1,10 @@
-package cn.ucai.bean;
+package com.example.admin1.myapplication1;
 
 /**
  * Created by admin1 on 2017/6/28.
  */
 
 public class ExamInformations {
-
     /**
      * subjectTitle : c1
      * uid : 1
@@ -48,14 +47,5 @@ public class ExamInformations {
 
     public int getQuestionCount() {
         return questionCount;
-    }
-
-    @Override
-    public String toString() {
-        return "考场信息{" +
-                "考试科目：'" + subjectTitle + "\n" +
-                "考试时间：" + limitTime +"分钟\n" +
-                "考试数量：" + questionCount +
-                '}';
     }
 }
