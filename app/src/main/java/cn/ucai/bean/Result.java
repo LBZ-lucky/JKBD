@@ -1,4 +1,4 @@
-package com.example.admin1.myapplication1;
+package cn.ucai.bean;
 
 import java.util.List;
 

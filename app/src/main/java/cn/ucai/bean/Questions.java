@@ -1,4 +1,4 @@
-package com.example.admin1.myapplication1;
+package cn.ucai.bean;
 
 /**
  * Created by admin1 on 2017/6/28.
